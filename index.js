@@ -3,9 +3,9 @@ function happyHolidays() {
   return 'Happy holidays!'
 }
 
-var name = "you"
-var holiday = "Independence Day"
-var date = "20"
+var name = "you";
+var holiday = "Independence Day";
+var date = "20";
 
 function happyHolidaysTo(name) {
   return 'Happy holidays, ${name}!'
